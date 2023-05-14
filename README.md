@@ -1,1 +1,1 @@
-# Exprimental_repo
+# Experimental repository for coursera Git course
